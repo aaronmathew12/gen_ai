@@ -89,7 +89,7 @@ Final Audio Output
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/music-generator.git  
+   git clone https://github.com/aaronmathew12/gen_ai  
    cd music-generator  
 
 2. Create virtual environment:
